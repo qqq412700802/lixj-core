@@ -1,4 +1,4 @@
-package com.lixj;
+package com.lixj.core;
 
 import java.io.Serializable;
 

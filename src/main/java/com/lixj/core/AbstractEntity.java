@@ -1,4 +1,4 @@
-package com.lixj;
+package com.lixj.core;
 
 public abstract class AbstractEntity
   implements Entity
